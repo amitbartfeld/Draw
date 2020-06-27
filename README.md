@@ -1,6 +1,6 @@
 # Draw app
 Google Play: https://play.google.com/store/apps/details?id=com.Draw.amitbartfeld</br>
-![](http://amitbartfeld.ml/apps/Draw%20app.png)
+[![](http://amitbartfeld.ml/apps/Draw%20app.png)]
 ***Here's some ways to get in touch with me:***</br>
 My Discord: [Amit#2939](https://discord.com/channels/@me/257775386870415360 "Amit#2939") </br>
 My Email: [amitbartfeld@gmail.com](mailto:amitbartfeld@gmail.com "amitbartfeld@gmail.com")</br>
