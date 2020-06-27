@@ -12,4 +12,4 @@ I don't like the fact that everyone can just come take my hard work and copy it.
 sorry but I really want to keep my project safe... </br>
 :/ hope you are not mad at me... :/ </br>
 Enjoy the app... </br> 
-***[{(Amit Bartfeld)}] ***</br>
+***Amit Bartfeld***</br>
