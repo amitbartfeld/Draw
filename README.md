@@ -1,4 +1,4 @@
-# Draw app
+<h1 align="center">Draw app</h1>
 Google Play: https://play.google.com/store/apps/details?id=com.Draw.amitbartfeld</br>
 [![](https://github.com/amitbartfeld/Draw/blob/master/asset/Draw%20app%20poster.png)](https://play.google.com/store/apps/details?id=com.Draw.amitbartfeld)
 ***Here's some ways to get in touch with me:***</br>
