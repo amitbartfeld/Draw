@@ -5,7 +5,7 @@
 ***Here's some ways to get in touch with me:***</br>
 My Discord: [Amit#2939](https://discord.com/users/257775386870415360 "Amit#2939") </br>
 My Email: [amitbartfeld@gmail.com](mailto:amitbartfeld@gmail.com "amitbartfeld@gmail.com")</br>
-My Telegram: https://t.me/AmitBartfeld</br>
+My Telegram: [AmitBartfeld](https://t.me/AmitBartfeld "AmitBartfeld")</br>
 ### Please note!
 Yeah I know what you thinking... </br>
 were are the files? and What happend here? </br>
