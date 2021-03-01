@@ -1,5 +1,6 @@
 <h1 align="center">Draw app</h1>
-Google Play: https://play.google.com/store/apps/details?id=com.Draw.amitbartfeld</br>
+<p align="center">Google Play: https://play.google.com/store/apps/details?id=com.Draw.amitbartfeld</p>
+
 [![](https://github.com/amitbartfeld/Draw/blob/master/asset/Draw%20app%20poster.png)](https://play.google.com/store/apps/details?id=com.Draw.amitbartfeld)
 ***Here's some ways to get in touch with me:***</br>
 My Discord: [Amit#2939](https://discord.com/channels/@me/257775386870415360 "Amit#2939") </br>
@@ -11,7 +12,6 @@ were are the files? and What happend here? </br>
 so I have a answer for you (you may not like it...). </br>
 I don't like the fact that everyone can just come take my hard work and copy it... so right now there is no files execpt the apk of the app. </br>
 sorry but I really want to keep my project safe... </br>
-:/ hope you are not mad at me... :/ </br>
 Enjoy the app... </br> 
 ***Amit Bartfeld***</br>
 [![](https://github.com/amitbartfeld/Draw/blob/master/asset/Draw%20app.png)](https://play.google.com/store/apps/details?id=com.Draw.amitbartfeld)
