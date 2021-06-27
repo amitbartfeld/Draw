@@ -1,5 +1,5 @@
 <h1 align="center">Draw app</h1>
-<p align="center"><a href="https://play.google.com/store/apps/details?id=com.Draw.amitbartfeld">Google Play</a></p>
+<p align="center"><a href="https://play.google.com/store/apps/details?id=com.Draw.amitbartfeld">Google Play - No longer available</a></p>
 
 [![](https://github.com/amitbartfeld/Draw/blob/master/asset/Draw%20app%20poster.png)](https://play.google.com/store/apps/details?id=com.Draw.amitbartfeld)
 ***Here's some ways to get in touch with me:***</br>
